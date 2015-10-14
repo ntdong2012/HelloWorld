@@ -29,7 +29,7 @@ public class MainActivity extends Activity {
 		if (id == R.id.action_settings) {
 			return true;
 		}
-		// TEst
+		// TEst lan 2
 		return super.onOptionsItemSelected(item);
 	}
 }
